@@ -44,5 +44,5 @@ state-of-the-art   表示"优秀的"
 Our major technical contributions are the following: = The major technical contributions of this paper are as follows:    "表达本文的主要贡献"
 We express our grateful thanks to Prof. Jian Pei from Simon Fraser University for his valuable suggestions on this work.
 ... method in the ... fields has attracted considerable interest recently, and one of the most widely studied problems in this area is ...   某某研究在某个领域吸引了大量的注意力，并且其中一个最主要的研究问题是...
-take into account = consider  表示"考虑"
+take into account + 名词 + that = consider + that =  argue + that  表示"认为，考虑"
 ```
