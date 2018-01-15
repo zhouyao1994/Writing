@@ -22,7 +22,7 @@
 ```
 take home message   关键信息，要点
 ground truth        真实的
-This paper instead focuses on local clustering methods that examine local regions of the network.  （instead 然而，表示转折，表示该文章主要集中在...）
+This paper instead focuses on local clustering methods that examine local regions of the network.  （instead 然而，表示转折，表示该文章主要集中在...）
 because of the algorithm’s simplicity, scalability,
 and theoretical underpinnings.  (我们使用该算法，主要是因为算法很简洁、可扩展性好，并且是是理论性的基础算法)
 a couple of = a lot of = an ocean of = many + 复数名词      这些词都有许多的、大量的含义
