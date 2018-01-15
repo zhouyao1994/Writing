@@ -45,4 +45,5 @@ Our major technical contributions are the following: = The major technical contr
 We express our grateful thanks to Prof. Jian Pei from Simon Fraser University for his valuable suggestions on this work.
 ... method in the ... fields has attracted considerable interest recently, and one of the most widely studied problems in this area is ...   某某研究在某个领域吸引了大量的注意力，并且其中一个最主要的研究问题是...
 take into account + 名词 + that = consider + that =  argue + that  表示"认为，考虑"
+Section 1 introduces the concepts of clustering feature(CF) and CF tree, which are central to BIRCH.   表示"某一节引入了两个概念，这些是BIRCH算法的核心"
 ```
