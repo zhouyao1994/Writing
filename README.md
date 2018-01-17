@@ -49,6 +49,7 @@ take into account + 名词 + that = consider + that =  argue + that  表示"认
 Section 1 introduces the concepts of clustering feature(CF) and CF tree, which are central to BIRCH.   表示"某一节引入了两个概念，这些是BIRCH算法的核心"
 synthrtic datasets 表示"合成数据集"   real-world datasets= ground truth datasets  表示"真实数据集"
 We present a performance comparisons of A in terms of ...  versus B. = We compare A in terms of ... with B    表示"我们呈现了A和B在术语...上的比较结果"
+for the sake of charity   表示"为清晰起见，为了清晰起见"
 ```
 
 #### **计算机专有名词**
