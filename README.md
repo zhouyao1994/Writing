@@ -50,3 +50,11 @@ Section 1 introduces the concepts of clustering feature(CF) and CF tree, which a
 synthrtic datasets 表示"合成数据集"   real-world datasets= ground truth datasets  表示"真实数据集"
 We present a performance comparisons of A in terms of ...  versus B. = We compare A in terms of ... with B    表示"我们呈现了A和B在术语...上的比较结果"
 ```
+
+#### **计算机专有名词**
+***
+
+```
+inter-cluster distance  表示"簇间距离"
+intra-cluster distance  表示"簇内距离"
+```
