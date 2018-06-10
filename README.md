@@ -1,3 +1,16 @@
+# 论文研究方法
+
+台湾大学彭明辉老师
+1. [台湾大学彭明辉教授研究方法2008](中国计算机学会推荐国际学术会议和期刊目录%20（2015%20年）%20中国计算机学会.pdf)
+2. [彭明辉教授台大演讲视频](https://www.youtube.com/watch?v=jZnYuPavCvA)
+3. [彭明辉老师演讲youtube合集](https://www.youtube.com/results?search_query=%E5%BD%AD%E6%98%8E%E8%BE%89)
+4. [彭明辉老师主页](http://mhperng.blogspot.com/)
+5. [彭明辉研究生完全手册主页2016年](http://mhperng2.blogspot.com/2017/02/blog-post_25.html)
+
+## 研究工具
+[研究工具篇](./ResearchTools.md)
+
+
 ### <center>论文写作相关词汇总结</center>
 ***
 
